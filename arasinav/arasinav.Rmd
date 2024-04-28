@@ -1,7 +1,7 @@
 ---
-title: "Çalışmanızın Başlığı"
+title: "ara test"
 author: 
-  - İsim Soyisim[^1]
+  - mohammad marash[^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa-tr.csl
 header-includes:
@@ -32,7 +32,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== NOTLAR ================================= -->
 <!-- ======================================================================= -->
-[^1]: Öğrenci Numarası
+[^1]: 20080739
 
 # Vize Hakkında Önemli Bilgiler
 
